@@ -1,0 +1,14 @@
+{
+  "name": "gzh",
+  "version": "3.0.0",
+  "private": true,
+  "description": "日升月落公众号运营工具：Markdown 写稿 → 自检 → 官方 API 推送草稿箱",
+  "bin": { "gzh": "bin/gzh.js" },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=18.17" },
+  "optionalDependencies": {
+    "playwright-core": "1.64.1"
+  }
+}
