@@ -1,152 +1,193 @@
-# 🚀 永恒公众号矩阵 · 智能自媒体运营工作台
+# ⚡ 永恒公众号矩阵 · 全自动自媒体生产力工作台
 
 <div align="center">
 
-![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)
-![Release](https://img.shields.io/badge/Release-v1.8.6-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-安装即用%20·%20免配置-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
+<br>
+
+[![Windows 10 / 11](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64bit)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ygwbl/wechat-mp-automator/releases/latest)
+[![Release v1.8.6](https://img.shields.io/badge/Latest-v1.8.6-2ea44f?style=for-the-badge&logo=github)](https://github.com/ygwbl/wechat-mp-automator/releases/latest)
+[![Zero Config](https://img.shields.io/badge/安装即用-免配置环境-ff69b4?style=for-the-badge)](https://github.com/ygwbl/wechat-mp-automator/releases/latest)
+[![Multi-Account](https://img.shields.io/badge/独立指纹-物理防封-9945FF?style=for-the-badge)](https://github.com/ygwbl/wechat-mp-automator/releases/latest)
+
+<br>
+
+### 👑 一个人，就是一支自媒体集团军
+**专为微信公众号流量主、自媒体矩阵工作室及垂直赛道创作者深度定制的 Windows 原生桌面系统**
+
+**免配环境 · 独立指纹防封 · AI全流程十步流水线 · 电影级新中式排版 · 广告法拦截 · 直推手机草稿箱**
+
+<br>
 
 <p align="center">
-  <b>专为公众号流量主、自媒体工作室及个人创作者打造的 Windows 桌面级智能运营客户端</b><br>
-  <b>无需复杂配置 · 零代码门槛 · 多账号独立环境防封 · AI全流程自动写稿配图 · 一键推送到草稿箱</b>
+  <a href="https://github.com/ygwbl/wechat-mp-automator/releases/latest">
+    <img src="https://img.shields.io/badge/🚀_立即下载 Windows 安装包_(v1.8.6)-238636?style=for-the-badge&logo=windows&logoColor=white" height="40">
+  </a>
 </p>
 
-[📥 立即下载最新版 (v1.8.6)](https://github.com/ygwbl/wechat-mp-automator/releases/latest) • [✨ 核心功能](#-核心功能亮点) • [📸 界面截图](#-软件界面实测展示) • [❓ 常见问题](#-常见问题-faq)
+[ ⚡ 痛点对比 ](#-传统运营-vs-永恒矩阵) • [ ✨ 核心杀手级特性 ](#-六大核心杀手级优势) • [ 📸 真实实测演示 ](#-真实运行实测) • [ 🚀 三步极速上手 ](#-三步极速上手) • [ 💬 常见问题 ](#-常见问题-faq)
+
+<br>
 
 </div>
 
 ---
 
-## 💡 为什么选择《永恒公众号矩阵》？
+## 🥊 传统运营 VS 《永恒矩阵》
 
-市面上大多数 AI 工具要么是网页套壳、排版千篇一律，要么是需要自备环境、配置复杂的命令行脚本，对普通创作者极其不友好。
-
-**《永恒公众号矩阵》打破门槛，彻底实现桌面客户端「开箱即用」：**
-
-* 🟢 **真正的开箱即用**：无需安装 Node.js、Python 或任何数据库，下载 EXE 双击安装即可使用。
-* 🛡️ **多账号独立环境防封**：每个公众号拥有专属独立的浏览器指纹环境与 Cookie 隔离，免除频繁切号被封风险。
-* 🎨 **高颜值自动排版引擎**：内置新中式水墨风、莫兰迪杂志风、清单手账等爆款视觉风格，自动配图与排版。
-* 📝 **智能审稿与广告法合规拦截**：专为养生、健康、生活、情感等赛道设计，严格拦截违禁词与夸大医疗功效，安全保号。
-* 📲 **一键直达手机草稿箱**：自动生成后推送到微信官方草稿箱，手机「订阅号助手」一键直接发布。
-
----
-
-## 📸 软件界面实测展示
-
-### 1. 多账号总览与一键全自动生产
-> 一站式看板管理名下所有公众号，一键批量触发多账号写作与发布任务。
-![工作台总览](screenshots/01-workbench-工作台-多账号总览与一键生产.png)
+| 痛点场景 | 传统人工 / 普通网页工具 | 🚀 《永恒公众号矩阵》桌面工作台 |
+| :--- | :--- | :--- |
+| **安装部署** | 繁琐装 Node/Python/环境，报错劝退 | **0 配置！双击安装即用，Windows 原生流畅运行** |
+| **多账号管理** | 频繁切号登进登出，平台判定关联封号 | **原生独立浏览器指纹环境 + Cookie 物理隔离，安全保号** |
+| **文章排版** | 手动找图排版 2 小时，版面单调无美感 | **内置新中式水墨/莫兰迪杂志级排版引擎，自动配图美化** |
+| **内容合规** | 容易踩中广告法/违禁词，限流封号 | **内置专研合规雷达，自动拦截虚假医疗、绝对化功效词** |
+| **模型稳定性** | 单一接口频繁超时崩盘，工作流中断 | **智能多模型网关：主备自动降级切换，容灾永不掉线** |
+| **发布流程** | 复制粘贴到后台、手动调格式极费时 | **一键直达微信官方草稿箱，手机「订阅号助手」一键群发** |
 
 ---
 
-### 2. 任务详情 · 文章预览与多维度智能审稿打分
-> 严格的十步流水线，AI 自动完成正文撰写、查重降重、广告法合规性检查并给出专业评分。
-![任务详情](screenshots/02-job-detail-任务详情-文章预览与审稿打分.png)
+## 💎 六大核心杀手级优势
+
+### 1️⃣ 真正的「开箱即用」，小白零门槛
+告别繁杂的命令行与依赖安装！软件已完整内置所需运行时，下载后双击运行即可。无论是自媒体兼职副业、宝妈新手，还是工作室批量操作，3 分钟即可上手。
+
+### 2️⃣ 矩阵多开 · 独立指纹环境物理隔离
+每个公众号分配独立的沙箱存储空间、独立的浏览器环境与专属指纹参数。Cookie 不共享、环境不串号，无需频繁扫码切号，彻底解决多账号运营的关联封号之忧。
+
+### 3️⃣ 十步自动化流水线，品质超越单一 Prompt
+不是简单的“问一句答一句”，而是工业级标准化产出：  
+`选题裂变 → 架构大纲 → 正文起草 → 深度去AI味降重 → 广告法合规拦截 → 审稿专家综合打分 → 智能配图生图 → 杂志级排版渲染 → 官方API对接 → 直推手机草稿箱`。
+
+### 4️⃣ 审美在线的「视觉排版引擎」
+拒绝千篇一律的白底生硬文字！内置**新中式水墨风、莫兰迪生活志、极简留白、清单手账**等多套高级版式。自适应色彩方案、段落金句框、步骤卡片，让每一篇推文都具备爆款相。
+
+### 5️⃣ 垂直赛道「合规与避坑雷达」
+专为**养生健康、情感励志、生活常识、中老年资讯**等高违规风险赛道量身定制。实时比对《广告法》最新规范，彻底杜绝“根治、特效、预防绝症”等违规雷区，守护账号资产安全。
+
+### 6️⃣ 智能模型网关，容灾热备永不卡壳
+支持接入各大主流大模型（DeepSeek、Claude、OpenAI 等）。支持设定“主写作模型”与“备用容灾模型”，当主力接口偶尔遇阻时，系统秒级自动无感切换，确保每日生产流水线不中断。
 
 ---
 
-### 3. 真实移动端排版效果预览
-> 告别传统生硬单调排版！所见即所得的手机端自适应预览，美观大方，极大提升完读率与转化。
-![手机端预览](screenshots/02b-job-phone-任务详情-手机端预览.png)
+## 📸 真实运行实测
+
+### 🖥️ 一站式矩阵工作台 · 多账号总览
+> 一屏掌握所有公众号状态，批量指派任务，一键全自动生产。
+<p align="center">
+  <img src="screenshots/01-workbench-工作台-多账号总览与一键生产.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 4. 数据看板 · 粉丝与阅读转化深度分析
-> 实时汇总各账号阅读量、点赞量、粉丝净增走势，为下一次选题策略提供数据支撑。
-![数据看板](screenshots/03-stats-数据看板-粉丝与阅读分析.png)
+### 📝 智能审稿打分 · 正文与合规实时检测
+> 不放过任何合规漏洞，自动给出修改意见与量化综合得分。
+<p align="center">
+  <img src="screenshots/02-job-detail-任务详情-文章预览与审稿打分.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 5. 批量矩阵 · 多账号自动化排期日历
-> 支持自定义发布节奏，不同赛道、不同账号独立定时错峰发布，真正的全自动化运转。
-![批量矩阵排期](screenshots/04-matrix-批量矩阵-多账号排期.png)
+### 📱 真实手机端自适应效果预览
+> 真正的“所见即所得”，杂志级排版视觉，极大拉升读者完读率。
+<p align="center">
+  <img src="screenshots/02b-job-phone-任务详情-手机端预览.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 6. 爆款选题库 · 告别选题焦虑
-> 汇聚全网自媒体高热度爆款主题与赛道灵感，一键指派给指定公众号进行全自动扩写。
-![选题库](screenshots/05-ideas-选题库.png)
+### 📊 粉丝互动与阅读走势深度复盘
+> 多账号数据一目了然，清晰洞察爆款规律，指导后续选题排期。
+<p align="center">
+  <img src="screenshots/03-stats-数据看板-粉丝与阅读分析.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 7. 稿件资产库 · 沉淀你的数字资产
-> 历史稿件、草稿与发布记录分门别类归档，方便随时回溯与二次创作。
-![稿件库](screenshots/06-library-稿件库.png)
+### 🗓️ 多账号智能日历排期
+> 科学错峰分布，支持每周、每日定时自动化推进，真正的无人值守。
+<p align="center">
+  <img src="screenshots/04-matrix-批量矩阵-多账号排期.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 8. 粉丝留言 AI 智能起草回复
-> 自动同步文章最新读者留言，AI 结合人设智能生成高情商回复草稿，提升粉丝粘性。
-![留言回复](screenshots/07-comments-留言回复-AI起草.png)
+### 💡 爆款选题灵感库
+> 告别枯坐电脑前选题脱发！海量高共鸣、高互动优质选题随时调度。
+<p align="center">
+  <img src="screenshots/05-ideas-选题库.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 9. 智能模型网关 · 备选模型无缝热切换
-> 支持接入各大主流大模型（DeepSeek、Claude、OpenAI、DashScope 等），内置主备自动降级切换与容灾策略，保证流水线永不断线。
-![模型连接设置](screenshots/08b-models-open-模型连接-备选写作模型自动切换.png)
+### 💬 粉丝留言 AI 自动起草
+> 贴合账号人设，一键起草高情商读者回复，互动粘性直线上升。
+<p align="center">
+  <img src="screenshots/07-comments-留言回复-AI起草.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 10. 角色链路分工 · 模块化协同生产
-> 支持将“选题构思、草稿起草、视觉设计、审校打分”分配给不同模型分工协作，生产质量大幅超越单一提示词。
-![角色分工](screenshots/09-roles-角色分工-多模型链.png)
+### ⚡ 双核模型网关 · 自动容灾切换
+> 告别 API 接口波动！内置多通道无缝热切换与多角色链分工。
+<p align="center">
+  <img src="screenshots/08b-models-open-模型连接-备选写作模型自动切换.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-### 11. 独立指纹环境设置 · 安全防关联
-> 每一个绑定的公众号后台均在物理隔离的专用环境内运行，支持独立代理与指纹配置，彻底解决多账号封号痛点。
-![账号设置](screenshots/10b-account-open-账号设置.png)
+### 🛡️ 独立指纹环境设置 · 安全防关联
+> 每一个账号享有专属指纹与存储沙箱，矩阵号主的坚实护城河。
+<p align="center">
+  <img src="screenshots/10b-account-open-账号设置.png" width="95%" style="border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
+</p>
 
 ---
 
-## 📥 下载与安装
+## 🚀 三步极速上手
 
-### 系统要求
-* **操作系统**：Windows 10 / Windows 11 (64位)
-* **环境依赖**：**无需配置任何运行环境**，系统自带 WebView2 / Edge 即可运行。
+```
+  [第 1 步] ──> 下载安装包，双击一键安装完成
+       ↓
+  [第 2 步] ──> 在「账号设置」中扫码添加你的微信公众号
+       ↓
+  [第 3 步] ──> 选择赛道或选题，点击「一键生产」直接进草稿箱！
+```
 
-### 获取最新版
-👉 点击前往 **[GitHub Releases 页面](https://github.com/ygwbl/wechat-mp-automator/releases/latest)** 下载最新安装程序：
-* `永恒矩阵-安装-v1.8.6.exe` (一键安装版)
-
----
-
-## 🚀 三步快速上手
-
-1. **下载安装**：下载后双击运行安装包，桌面将自动生成《永恒矩阵》启动快捷方式；
-2. **添加账号**：在「账号设置」中扫码登录你的微信公众号（支持多账号）；
-3. **开始生产**：在「工作台」点击一键生产或选择选题，系统将自动撰写、排版、配图并推送到手机草稿箱！
+* **系统支持**：Windows 10 / Windows 11 (64位)
+* **安装说明**：本软件为绿色无害客户端，下载后直接运行 `YonghengMatrix-Setup-v1.8.6.exe` 即可完成安装。
 
 ---
 
 ## ❓ 常见问题 (FAQ)
 
 <details>
-<summary><b>Q1: 我是电脑小白，完全不懂代码，可以使用吗？</b></summary>
-A: 完全可以！本软件专门针对自媒体创作者设计为图形化客户端（EXE），无需安装 Node.js、Python 或输入任何命令行，所有操作均通过鼠标点击完成。
+<summary><b>Q1: 真的完全不需要配置编程环境吗？</b></summary>
+<b>答：</b>完全不需要！很多自媒体从业者被市面上的开源脚本吓退，就是因为要装各种依赖。《永恒矩阵》采用 Windows 原生打包，解压/安装后打开就能用，就像打开微信或 QQ 一样自然。
 </details>
 
 <details>
-<summary><b>Q2: 多个公众号在同一台电脑上登录会关联封号吗？</b></summary>
-A: 不会。《永恒矩阵》底层针对每个账号分配了独立的存储沙箱和专属指纹浏览器环境，Cookie 与会话物理隔离，与日常多台电脑登录效果一致。
+<summary><b>Q2: 生成的文章会被平台判定为“低质 AI 内容”吗？</b></summary>
+<b>答：</b>不会。软件内置了专门的“去 AI 味降重引擎”与审稿打分系统，融入了大量对话感、短句生活化表达与故事化引入，辅以高颜值段落卡片与配图，质量远胜普通的直接对话生成。
 </details>
 
 <details>
-<summary><b>Q3: 为什么生成的文章排版比普通的 AI 工具好看得多？</b></summary>
-A: 本软件内置了专业的新媒体视觉排版引擎，并非简单的 Markdown 纯文本转换，而是采用模块化卡片、自适应配图、色彩呼应与移动端阅读体验优化方案。
+<summary><b>Q3: 一个账号一天能发多少篇？</b></summary>
+<b>答：</b>根据微信官方规则，订阅号每天支持群发 1 次（单次可推 1~8 篇），草稿箱则不限制保存数量。软件支持定时批量存入草稿箱，你可以随时在手机上预览确认后发表。
 </details>
 
 <details>
-<summary><b>Q4: 如何获取软件试用与正版授权？</b></summary>
-A: 下载安装后可直接获取基础体验权限。如需开通多账号矩阵、无限次生成及专属爆款词库，请在软件内「授权管理」或通过主页联系我们获取授权码。
+<summary><b>Q4: 换电脑后我的账号和数据会丢失吗？</b></summary>
+<b>答：</b>不会！系统内置了安全的数据导出与加密备份机制，换新电脑后只需一键导入备份，即可无缝还原所有配置与登录状态。
 </details>
 
 ---
 
 <div align="center">
 
-**永恒公众号矩阵 · 让每一次创作都省心省力**  
-如果这个项目对你有帮助，欢迎在右上角点亮一个 ⭐️ **Star** 支持我们！
+### 🌟 效率拉满，把时间留给更有价值的事情
+**如果你也认同这款工具的理念，欢迎点击右上角 ⭐️ 给我们一个 Star！**
+
+<br>
+
+[![Star on GitHub](https://img.shields.io/github/stars/ygwbl/wechat-mp-automator?style=social)](https://github.com/ygwbl/wechat-mp-automator)
 
 </div>
